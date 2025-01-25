@@ -1,0 +1,49 @@
+export const sample_excel =
+  'https://res.cloudinary.com/dhbtov5ja/raw/upload/v1737306588/employee_data_bbbduo.xlsx';
+
+export const ICONS = {
+  UpIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311384/up_jbxpxn.svg',
+  TickIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311383/tick_vshdiv.svg',
+  DashboardIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311375/dashboard_jz8nq5.svg',
+  OrganisationIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311381/organisation_e93q15.svg',
+  EmployeesIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311376/employees_c2mkdf.svg',
+  PayrollIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311381/payroll_dvjjve.svg',
+  LeavesIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311378/leaves_l0fdju.svg',
+  ClaimsIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311375/claims_xl2s2t.svg',
+  MoreIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311378/more_qld3pr.svg',
+  PlanIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311382/plan_zo1sgk.svg',
+  NotiifcationIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311379/notification_pexvcn.svg',
+  CancelIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311375/cancel_g27cc6.svg',
+  DownIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311376/down_mviop3.svg',
+  KelickLogo:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311378/logo_y359jx.svg',
+  ExcelIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311377/excel_eb5ga5.svg',
+  DownloadIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311376/download_gvdyin.svg',
+  FolderIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311377/folder_s7aoyh.svg',
+  SearchIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311382/search_oi2dzp.svg',
+  SearchUser:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311382/search-user_a00w78.svg',
+  BulkUpload:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311375/bulk-upload_nizzro.svg',
+  AddEmployee:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311374/add-employee_dib5ne.svg',
+  AvatarIcon:
+    'https://res.cloudinary.com/dhbtov5ja/image/upload/v1737311375/avatar_zucktg.svg',
+};
