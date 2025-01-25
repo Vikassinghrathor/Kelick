@@ -1,4 +1,4 @@
-import PayrollScreen from '@/screen/PayrollScreen';
+import PayrollScreen from '@/views/PayrollScreen';
 
 export default function Payroll() {
   return <PayrollScreen />;
